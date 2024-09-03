@@ -1,0 +1,13 @@
+:root {
+	--ym-site-bgd-color: #22B9FE;
+}
+
+#header-menu {
+    background-color: #8DEEFF!important;
+}
+
+#footer-message {
+	background-color: #d8ef92;
+	color: #bd8e15;
+	padding-top: 25px;
+}
