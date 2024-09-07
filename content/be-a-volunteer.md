@@ -1,6 +1,6 @@
 # Who can apply the program?
 
-You can spread the cheer by becoming a volunteer at Anbagam. Students from Colleges & Universities, Employees from corporates & companies, Foreigners for social service.
+You can spread the cheer by becoming a volunteer at Anagama. Students from Colleges & Universities, Employees from corporates & companies, Foreigners for social service. For volunteering please mail to us at <a href="mailto:team@anbagam.org" target="_blank">team@anbagam.org</a>
 
 </section><section>
 

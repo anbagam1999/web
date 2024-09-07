@@ -1,16 +1,15 @@
-# Doctors
+# Doctors / Nurses / Social Workers
 
-Anbagam provides medical facilities to all mentally ill destitutes in the shelter. Every day morning, Doctors from the Corporation hospital & others visit the centre and provide service to the needy.
+Anbagam provides medical facilities to all mentally ill destitutes in the shelter. The following form the core team:
 
-* Dr. Jayakumar menon - Psychiatrist
-* Dr. Sathish ramanathan - General Physician
-* Dr. Lakshmi  - General Physician
+* Dr. Jayakumar Menon - Psychiatrist
+* Dr. Rajaratnam - Psychiatrist, Retd Chief of State Mental Health Authority
+* Dr. G. Lakshmanan- Psychiatrist
 * Dr. Asha  - physiotherapist
-* Mr. Madan Natha - Psychiatrist Social Worker
-* Mr. Sabeek ahmed -Psychiatric social worker
+* Mr. Madan Nathan - Psychiatrist Social Worker
 * Ms. Vineetha - psychiatric social worker
-* Mrs. Rafiya  - social worker [HR]
-* Mrs. Ayisha - Nurse
-* Ms. Ramya  - Nurse
-* Ms. Yuva Rani - ANM
+* Ms. Rafiya  - social worker [HR]/ Admin Director
+* Ms. Revathi - Nurse
+* Ms. Sharmila  - Nurse
+* Ms. Sangeetha - Nurse
 

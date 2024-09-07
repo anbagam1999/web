@@ -1,18 +1,33 @@
 # Anbagam Story
 
-The world is filled with many kind souls but there are very few who are compassionate enough to walk the extra mile. Mr. Mohammed Rafi, the proprietor of a flourishing small business in Parry's (Chennnai), chose to look beyond his busy life and see a need that not many see, to take a challenging path where few have dared to step. Anbagam, a home for mentally ill men, was the brain child of his ceaseless and colossal efforts. Realizing a need to go beyond material help, such as food or small money, Mr. Rafi established Anbagam to not just rescue mentally ill men wasting on the roads but also to reinstate their broken soul.
-
-# Anbagam's Growth
-
-The inception of Anbagam was just the initial step in the journey of a thousand miles. Started in 1999, the early days saw mentally ill destitutes housed in the residence of Mr. Mohammed Rafi, the founder.As the number of mentally ill destitutes increased, there was an acute need for more living space and amenities. In order to meet this crucial need, Anbagam developed into a full-fledged welfare organization with sponsors to support its growing needs.
-
-In 2002, the Anbagam centre was constructed in a village near Red Hills (Chennai), providing the mentally ill destitutes with an ideal environment, far away from the hustle of the city and closer to nature's healing touch. In 2006, the Andhra Pradesh center for Anbagam was created to carry forth the mission of saving lost souls. Anbagam has successfully rehabilitated 488 mentally ill patients and currently houses 63 mentally ill destitutes, providing them with professional support and personal care to banish the darkness within them and walk out into the light of the day.
+The world is filled with many kind souls but there are very few who are compassionate enough to walk the extra mile. Mr. Mohammed Rafi, the proprietor of a flourishing small business in Parry's (Chennnai), chose to look beyond his busy life and see a need that not many see, to take a challenging path where few have dared to step.He set up a trust called TERDOD ( TRUST ), under the trust homes called "ANBAGAM", were set up initially in THIRUNILAI village Thiruvallur Village, this home for mentally ill men, was the brain child of his ceaseless and colossal efforts. Realizing a need to go beyond material help, such as food or small money, Mr. Rafi established Anbagam to not just rescue mentally ill men wasting on the roads but also to reinstate their broken soul.
 
 </section><section>
 
-# Individually, we are one drop. Together, we are an ocean
+# Anbagam's Growth
 
-As Anbagam transformed into a full fledged welfare organization, a board of trustees was created. The following individuals are an integral part of Anbagam, playing a key role in propelling it forward on the pathways of success.
+### YEAR 1999
+
+The inception of Anbagam was just the initial step in the journey of a thousand miles. Started in 1999, the early days saw mentally ill destitutes housed in the residence of Mr. Mohammed Rafi, the founder. As the number of mentally ill destitutes increased, there was an acute need for more living space and amenities. In order to meet this crucial need, Anbagam developed into a full-fledged welfare organization with sponsors to support its growing needs.
+
+### YEAR 2002
+
+In 2002, the Anbagam centre was constructed in Thirunilai  village near Red Hills (Chennai), providing care for the mentally ill destitutes , this became an ideal environment, far away from the hustle of the city and closer to nature's healing touch. 
+
+### YEAR 2013
+
+The Chennai Corporation seeing our work , wanted us to partner and start a home in the Center for Communicable Diseases Tondiarpet ,thus the 2nd branch of our home commenced there , the arrangement continues till date and all the processes and facilities needed are provided to the in mates of our home .
+
+### YEAR 2015
+
+Considering the increasing numbers of abandoned mentally ill destitutes within the limits of Chennai , the trustees decided to have another branch within the city and accordingly a place in OTTERI CHENNAI was taken on rent , this home provides shelter to abandoned women only .
+
+
+</section><section>
+
+**Individually, we are one drop. Together, we are an ocean**
+
+</section><section>
 
 # Words from mentally ill destitutes from our Shelter
 
@@ -53,16 +68,4 @@ please don't hesitate to call 94440 09988 or 044 - 2901 3306
 ## 3 - Rehabilitate
 
 Anbagam will rescue and rehabilitate them as per the procedures.
-
-</section><section>
-
-# Report - October 2015
-
-Anbagam rescues or takes in mentally ill men, helps them regain mental health, and reunites them with the families and communities
-
-Total Rescued (1640)
-
-Discharged (1400)
-
-Present destitutes (240)
 

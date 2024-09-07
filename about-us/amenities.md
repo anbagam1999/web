@@ -26,12 +26,6 @@ The mentally ill destitutes are regularly put through medical check-ups often by
 
 </section><section>
 
-# Animal Farm
-
-The bird song gently wafts in the air casting a sense of mirth and cheering up the darkest moods. The cow shed with its bovine mentally ill destitutes is a means of occupation for those wishing to spend their time constructively.
-
-</section><section>
-
 # Newspaper Subscription
 
 Anbagam subscribes to vernacular newspapers and magazines to ensure that those mentally ill destitutes who enjoy a few quiet moments with the written word.
@@ -50,15 +44,9 @@ Anbagam makes sure that the medicines prescribed by the doctor are given to the 
 
 </section><section>
 
-# Biogas Plant
-
-Anbagam has an in-house biogas plant which partially takes care of the energy required for cooking fuel. The cow shed provides the raw material which is then stored in a compost pit to form the natural gas.
-
-</section><section>
-
 # Garden
 
-Anbagam is surrounded by trees and plants which are tended by the mentally ill destitutes as a past time. The garden is planned aesthetically and reflects the hard work of the mentally ill destitutes.
+Anbagam is surrounded by trees and plants which are tended by the mentally ill destitutes as a past time. The garden is planned aesthetically and reflects the hard work of the mentally ill destitutes. There is an organic vegetable garden from where the needs of our home are partially fulfilled 
 
 </section><section>
 

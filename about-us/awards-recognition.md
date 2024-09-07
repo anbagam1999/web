@@ -47,6 +47,10 @@
 
 </section><section>
 
+# BEST SOCIAL WORKER AWARD GOVT. OF TAMILNADU 2016
+
+The Govt Of Tamilnadu , in recognition of the contributions made by our founder Trustee for the abandoned destitutes conferred the Best Social worker award 
+
 Honor Of Awards
 
 # For the Sake of Honor Award
@@ -60,4 +64,9 @@ The LEAF Foundation bestowed the award for 'Social Outreach' to encourage Anbaga
 # Schizophrenia Research Foundation
 
 The Schizophrenia Research Foundation showed their appreciation towards Anbagam and Mr. Mohammed Rafi by honoring them with their prestigious award.
+
+# BEST INSTITUTION AWARD GOVT. OF TAMILNADU 2018
+
+The Govt Of Tamilnadu , in recognition of the contributions made by our TRUST for the abandoned destitutes conferred the Best Institution award in 2018.
+
 

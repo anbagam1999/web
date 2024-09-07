@@ -9,29 +9,29 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 <img src="%url%assets/trustees/cvvinod.jpg" class="img-fluid" />
 
-<em>Trustee</em>
+<em>Managing Trustee</em>
 
-<em class="about">C.V Vinod is General Manager, BSNL, Chennai and has been associated with Anbagam since 2001.<em>
+<em class="about">C.V Vinod an officer of INDIAN TELECOMMUNICATION SERVICE RETD AS CHIEF General Manager, BSNL, Chennai, he has been associated with Anbagam since 2001.<em>
 
 </section><section>
 
-# E A Wilson
+# E A Wilson RETIRED FROM SOUTHERN RAILWAYS
 
 <img src="%url%assets/trustees/wilson.jpg" class="img-fluid" />
 
 <em>Trustee</em>
 
-<em class="about">Wilson is an Officer in the Indian Railways and has been a trustee of Anbagam since 2001.</em>
+<em class="about">Wilson was an Officer in the Indian Railways and has been a trustee of Anbagam since 2004.</em>
 
 </section><section>
 
-# E.Charumathi
+# E.Charumathi RETIRED FROM RAILWAYS
 
 <img src="%url%assets/trustees/charumathi.jpg" class="img-fluid" />
 
 <em>Trustee</em>
 
-<em class="about">E. Charumathi is a Reservation Officer in the Indian Railways and has been a part of the organization since 2001.</em>
+<em class="about">E. Charumathi was a Reservation Officer in the Indian Railways and has been a part of the organization since 2004.</em>
 
 </section><section>
 
@@ -41,7 +41,7 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 <em>Founder & Trustee</em>
 
-<em class="about">Mohammed Rafi is the Founder and the Managing Trustee of Anbagam. He is a businessman and the proprietor of a flourishing small business in Parry’s, Chennnai.</em>
+<em class="about">Mohammed Rafi is the Founder Trustee of Anbagam. He is a businessman and the proprietor of a flourishing small business in Parry's, Chennnai.</em>
 
 </section><section>
 
@@ -51,17 +51,17 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 <em>Trustee</em>
 
-<em class="about">Sanjeev Jain.S is a Chennai-based businessman and the proprietor of a flourishing small business in Sowcarpet, Chennnai. He has been with Anbagam from a long time.</em>
+<em class="about">Sanjeev Jain.S is a Chennai-based businessman and the proprietor of a flourishing small business in Sowcarpet, Chennnai. He has been with Anbagam from 2010.</em>
 
 </section><section>
 
-# Subba Reddy
+# P.Subba Reddy
 
 <img src="%url%assets/trustees/subbareddy.jpg" class="img-fluid" />
 
-<em>Managing Trustee</em>
+<em>Trustee</em>
 
-<em class="about">P. Subba Reddy is an Advocate at the High Court, Chennai and has been a part of the organization from 2003 onwards.</em>
+<em class="about">P. Subba Reddy is an Advocate at the High Court, Chennai and has been a part of the organization from 2005 onwards.</em>
 
 </section><section>
 
@@ -71,5 +71,39 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 <em>Trustee</em>
 
-<em class="about">Thyagu Durai Kannan Rathinadurai is an IT Manager, Chennai and has been a part of the organization.</em>
+<em class="about">Thyagu Durai Kannan Rathinadurai is an IT Manager, Chennai and has been a part of the organization FROM 2014.</em>
+
+</section><section>
+
+# Vinod Kumar G
+
+<img src="%url%assets/trustees/vinodkumar.jpg" class="img-fluid" />
+
+<em>Trustee</em>
+
+<em class="about"> Vinod Kumar is a business man in Chennai and has been a part of the organization FROM 2015.</em>
+
+</section><section>
+
+
+# Dr. Jayakumar Menon
+
+<img src="%url%assets/trustees/Jayakumar Menon.jpg" class="img-fluid" />
+
+<em>Trustee</em>
+
+<em class="about">Dr. Jayakumar Menon is a PhysiatristO , he   has been a part of the organization since 2017.</em>
+
+</section><section>
+
+
+# M.Surendran
+
+<img src="%url%assets/trustees/Surendran.jpg" class="img-fluid" />
+
+<em>Trustee</em>
+
+<em class="about">Surendran Retired from Railways and is now working in CHENNAI METRO , he   has been a part of the organization since 2017.</em>
+
+</section><section>
 

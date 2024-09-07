@@ -1,6 +1,6 @@
 # Donation
 
-Taking care of so many mentally ill people is a challenge to us. We have successfully done it for the past 21 years because you, the donors, who supported us whole heartedly. Now again we come back to you for inspiration and support.You are requested to visit Anbagam on any day by giving a call to (+91) 9444009988 / (+91) 8807865616 and personally witness what we have done with your donations in the past.
+Taking care of so many mentally ill people is a challenge to us. We have successfully done it for the past 25 years because you, the donors, who supported us whole heartedly. Now again we come back to you for inspiration and support.You are requested to visit Anbagam on any day by giving a call to (+91) 9444009988 / (+91) 8807865616 and personally witness what we have done with your donations in the past.
 
 </section><section>
 
@@ -10,6 +10,13 @@ Current Account No. : 008602000008527
 Bank Name : IOB
 Branch : Sowcarpet Branch, Chennai - 600079.
 For Net Banking : IFSC Code - IOBA0000086
+
+# Bank Details - FOR INDIA ( Non-FCRA):
+MO/Cheque/DD to be drawn in the name of TERDOD
+SAVINGS BANK ACCOUNT No. 40221237952
+Bank Name : STATE BANK OF INDIA
+Branch : Edayanchavadi.
+For net banking : IFSC Code -SBIN0007595
 
 </section><section>
 
@@ -24,14 +31,12 @@ Account maintained Branch -  New delhi main branch.
 A/C - 00000040145846960
 IFSC CODE - SBIN0000691
 MICR Code -110002087
-Br code - 00691
+BR code - 00691
 SWIFT CODE - SBININBB104
 
 </section><section>
 
 # Appeal
 
-[Appeal](../appeal/) - Anbagam needs your support for extended activities to rehabilitate people and cows.
-
-[List of Donatees](../donatees/)
+[Appeal](../appeal/) - Anbagam needs your support for extended activities to rehabilitate people.
 

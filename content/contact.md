@@ -13,7 +13,7 @@ Chennai - 600 103
 
  +91 9498385306 | 94440 09988
 
-anbagamvichur@gmail.com
+<a href="mailto:vichur@anbagam.org" target="_blank">vichur@anbagam.org</a>
 
 </section><section>
 
@@ -22,9 +22,9 @@ anbagamvichur@gmail.com
 No. 187, T.H. Road,
 Chennai - 600 081
 
- +91 8807865616 | 94440 09988
+ +91 8807865616 | 04426605865
 
-anbagam.help@gmail.com
+<a href="mailto:cdh@anbagam.org" target="_blank">cdh@anbagam.org</a>
 
 </section><section>
 
@@ -34,7 +34,7 @@ Nammalwarpet, Otteri
 Chennai - 600012
 (opp) GOVT polytechnic college
 
- 044 - 26605865 | 94440 09988
+ 044 - 26605864 | +918807865616
 
-anbagam.help@gmail.com
+<a href="mailto:otteri@anbagam.org" target="_blank">otteri@anbagam.org</a>
 

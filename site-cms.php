@@ -5,7 +5,7 @@ am_var('local', $local = startsWith($_SERVER['HTTP_HOST'], 'localhost'));
 bootstrap([
 	'name' => 'Anbagam.org',
 	'byline' => 'Rehabilitating the Mentally Ill',
-	'footer-message' => '<marquee>Service to Humanity, Service to God</marquee><br />Recognised As a CSR Implementation Agency By IICA(Ministry Of Corporate Affairs, Government Of India)',
+	'footer-message' => '<marquee>Service to Humanity, Service to God</marquee><br />Recognised As a CSR Implementation Agency By IICA (Ministry Of Corporate Affairs, Government Of India)',
 	'safeName' => 'anbagam',
 	
 	'support_page_parameters' => true,
@@ -28,7 +28,7 @@ bootstrap([
 	'image-in-logo' => '-rectangle.jpg',
 
 	'start_year' => '1999',
-	'email' => 'anbagam.help@gmail.org',
+	'email' => 'team@anbagam.org',
 	'phone' => '+91.9444009988',
 	'address' => 'A. Kulandaivel Nachammal Nagar,<br />Thiunillai Village, Post Vichur<br />Chennai 600 103, Tamilnadu',
 	'social' => [

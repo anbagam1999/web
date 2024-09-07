@@ -7,16 +7,52 @@ Taking care of so many mentally ill people is a challenge to us. We have success
 You are requested to visit Anbagam on any day by giving a call to (+91) 9444009988 and personally witness what we have done with your donations in the past.
 
 </section><section>
+ 
+# OUR LATEST PROJECT
 
-# Bank Details
+We, the Anbagam Team are very happy to inform you that the late Mr. K. R.Baliga family harington road,chennai.has donated a sum of Rs one crore and above last year.
 
-Donations to Anbagam shall be by a cheque / DD or Online transfer favouring TERDOD,
+With this money, we have purchased 15 acres of land at devendhavakkam near uthukottai in Thiruvallur District.
 
-Current account no. 008602000008527,
+Further, we have started laying the foundation for the construction of a 12,000 square feet building to accommodate about 300 mentally ill, destitute and aged persons.
 
-lndian Overseas Bank,
+Another major expense is to construct fencing on the 5 acres of built area of land.
 
-Sowcarpet Branch,
+We need about Rs. Three crores to complete the project.
 
-IFS Code: 1OBA0000086.
+we are coming back to you for funds to complete this project.
+
+Your generosity will provide shelter and life for 300 or more mentally ill, destitute and aged persons.
+
+Awaiting your benevolent action 
+
+----
+
+**Bank Details - FOR INDIA (Non-FCRA)**:
+MO / Cheque / DD to be drawn in the name of TERDOD
+Current Account No. : 008602000008527
+Bank Name : IOB
+Branch : Sowcarpet Branch, Chennai - 600079.
+For Net Banking : IFSC Code - IOBA0000086
+
+**Bank Details - FOR INDIA ( Non-FCRA)**:
+MO/Cheque/DD to be drawn in the name of TERDOD
+SAVINGS BANK ACCOUNT No. 40221237952
+Bank Name : STATE BANK OF INDIA
+Branch : Edayanchavadi.
+For net banking : IFSC Code -SBIN0007595
+
+**Bank Details - FOR INTERNATIONAL (FCRA)**:
+1. Name of the organisation - TRUST FOR EDUCATION AND REHABILITATION OF DISABLED ORPHANS & DESTITUTES
+2. Full Address - THIRUNILAI VILLAGE VICHUR POST,CHENNAI-103
+3. FCRA Number and Validity - 075900916 /31.10. 2021
+
+**Bank Account Details (For International Donors)**:
+State Bank of india
+Account maintained Branch -  New Delhi main branch.
+A/C - 00000040145846960
+IFSC CODE - SBIN0000691
+MICR Code -110002087
+BR code - 00691
+SWIFT CODE - SBININBB104
 
