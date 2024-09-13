@@ -1,5 +1,6 @@
-# What We Do
-We assist the abandoned in living life with dignity through quality health and nutritional care and occupational therapy. 
+# Mission
+
+We assist the abandoned in living life with dignity through quality health, nutritional care and occupational therapy.
 
 </section><section>
 
@@ -7,8 +8,6 @@ We assist the abandoned in living life with dignity through quality health and n
 Anbagam is established by TERDOD, as public Charitable Trust in 1999. Initially, it was established in the residence of our founder in Chennai city. Later it was shifted to the present premises at Vichur, Tirunilai. Currently there are now approximately 450 mentally ill destitutes and abandoned senior citizens .
 
 During 2013, TERDOD and Corporation of Chennai had entered into an agreement to run a rehabilitation centre at the C D Hospital, Tondiarpet. There also, facilities that are available in Anbagam is provided. 
-
-
 
 </section><section>
 
