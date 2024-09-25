@@ -1,13 +1,9 @@
 :root {
-	--ym-site-bgd-color: #22B9FE;
+	--themecolor:  #22B9FE;
+	--themecolorrgb: 34, 185, 254;
+	--header-height: 70px;
 }
 
-#header-menu {
-    background-color: #8DEEFF!important;
-}
-
-#footer-message {
-	background-color: #d8ef92;
-	color: #bd8e15;
-	padding-top: 25px;
+#copyrights {
+    background-color: #bee6f9!important;
 }
