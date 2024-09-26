@@ -1,2 +1,4 @@
-//TODO: Use the content elements from [this theme](https://canvastemplate.com/demo-nonprofit.html)
-
+<?php
+$home = get_sheet('home', 'section');
+include am_var('theme_folder') . 'home.php';
+?>

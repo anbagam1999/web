@@ -9,6 +9,7 @@ bootstrap([
 	'safeName' => 'anbagam',
 	
 	'support_page_parameters' => true,
+	'page_parameter1_in_title' => true,
 	'version' => [ 'id' => '2', 'date' => '25 Sep 2024', ],
 
 	'use-parent-slugs' => true,
@@ -17,8 +18,7 @@ bootstrap([
 	'sections-have-files' => true,
 
 	'folder' => '/content/',
-	'support_page_parameters' => true,
-	'page_parameter1_in_title' => true,
+	'use-menu-files' => true,
 
 	'siteMenuName' => 'Anbagam Main',
 	'sections' => ['about-us'],//, 'success-stories', 'galleries', 'shelters'],
@@ -37,14 +37,14 @@ bootstrap([
 		[ 'type' => 'youtube', 'link' => 'https://www.youtube.com/channel/UCra5W808_ZMHoRfH8M753ug', 'name' => 'youtube: Anbagam Channel' ],
 	],
 
+	'footer-help' => [
+		'title' => 'Help the Homeless, Mentally Ill and Destitute.',
+		'link' => 'donate/',
+		'linkText' => 'Donate Now',
+		'img' => 'donate.jpg',
+	],
+
 	'url' => $local ? replace_vars('http://localhost%port%/symphony/anbagam/', 'port') : 'https://anbagam.yieldmore.org/',
 	'path' => SITEPATH,
 ]);
-
-if (am_var('node') == 'index') {
-	am_var('slider-data', [
-		[ 'h2' => 'Anbagam One', 'link' => '#one', 'linkText' => 'Know One', 'img' => 'slider-one.jpg' ],
-		[ 'h2' => 'Anbagam Two', 'link' => '#two', 'linkText' => 'Know Two', 'img' => 'slider-two.jpg' ],
-	]);
-}
 ?>
