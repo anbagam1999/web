@@ -22,6 +22,15 @@ The Chennai Corporation seeing our work , wanted us to partner and start a home 
 
 Considering the increasing numbers of abandoned mentally ill destitutes within the limits of Chennai , the trustees decided to have another branch within the city and accordingly a place in OTTERI CHENNAI was taken on rent , this home provides shelter to abandoned women only .
 
+### Current Status
+
+As of 2024, we have around 400 inmates which include abandoned senior citizens.
+
+A modern kitchen project is under construction in our Thirunilai - Vichur home funded by the AZIM PREMJI FOUNDATION.
+
+Further, another project is underway to construct a home in for 300 inmates in Devandhavakkam, Thiruvallur District, Tamil Nadu.
+
+Thus, our efforts to reach and contribute is an ongoing process with the kind support of donors like you.
 
 </section><section>
 

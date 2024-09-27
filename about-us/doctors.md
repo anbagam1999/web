@@ -5,6 +5,7 @@ Anbagam provides medical facilities to all mentally ill destitutes in the shelte
 * Dr. Jayakumar Menon - Psychiatrist
 * Dr. Rajaratnam - Psychiatrist, Retd Chief of State Mental Health Authority
 * Dr. G. Lakshmanan- Psychiatrist
+* Dr. Apoorvashree - MBBS
 * Dr. Asha  - physiotherapist
 * Mr. Madan Nathan - Psychiatrist Social Worker
 * Ms. Vineetha - psychiatric social worker
@@ -12,4 +13,3 @@ Anbagam provides medical facilities to all mentally ill destitutes in the shelte
 * Ms. Revathi - Nurse
 * Ms. Sharmila  - Nurse
 * Ms. Sangeetha - Nurse
-

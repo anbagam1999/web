@@ -20,7 +20,7 @@ bootstrap([
 	'folder' => '/content/',
 	'use-menu-files' => true,
 
-	'siteMenuName' => 'Anbagam Main',
+	'siteMenuName' => 'Volunteering',
 	'sections' => ['about-us'],//, 'success-stories', 'galleries', 'shelters'],
 	'no-promotions' => true,
 

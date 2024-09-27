@@ -1,9 +1,15 @@
 :root {
 	--themecolor:  #22B9FE;
+	--ym-site-bgd-color: #22B9FE;
 	--themecolorrgb: 34, 185, 254;
 	--header-height: 70px;
 }
 
+#wrapper, #content { background-color: #22B9FE; }
+
 #copyrights {
     background-color: #bee6f9!important;
 }
+
+.img-max-300 { display: block; margin: 10px auto 10px auto; max-width: 300px; }
+

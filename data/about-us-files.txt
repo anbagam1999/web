@@ -1,9 +1,11 @@
 our-mission
 our-story
 what-we-do
+inside-our-home
 trustees
-doctor
+doctors
 amenities
+infrastructure
 awards-and-recognition
 appeal
 donate

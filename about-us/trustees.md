@@ -7,7 +7,7 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 # C.V. Vinod
 
-<img src="%url%assets/trustees/cvvinod.jpg" class="img-fluid" />
+<img src="%url%assets/trustees/cvvinod.jpg" class=" img-fluid img-max-300" />
 
 <em>Managing Trustee</em>
 
@@ -17,7 +17,7 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 # E A Wilson RETIRED FROM SOUTHERN RAILWAYS
 
-<img src="%url%assets/trustees/wilson.jpg" class="img-fluid" />
+<img src="%url%assets/trustees/wilson.jpg" class=" img-fluid img-max-300" />
 
 <em>Trustee</em>
 
@@ -27,7 +27,7 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 # E.Charumathi RETIRED FROM RAILWAYS
 
-<img src="%url%assets/trustees/charumathi.jpg" class="img-fluid" />
+<img src="%url%assets/trustees/charumathi.jpg" class=" img-fluid img-max-300" />
 
 <em>Trustee</em>
 
@@ -37,7 +37,7 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 # M.P.Mohammed Rafi
 
-<img src="%url%assets/trustees/mohammed-rafi.jpg" class="img-fluid" />
+<img src="%url%assets/trustees/mohammed-rafi.jpg" class=" img-fluid img-max-300" />
 
 <em>Founder & Trustee</em>
 
@@ -47,7 +47,7 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 # Sanjeev Jain.S
 
-<img src="%url%assets/trustees/sanjeev-jain.jpg" class="img-fluid" />
+<img src="%url%assets/trustees/sanjeev-jain.jpg" class=" img-fluid img-max-300" />
 
 <em>Trustee</em>
 
@@ -57,7 +57,7 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 # P.Subba Reddy
 
-<img src="%url%assets/trustees/subbareddy.jpg" class="img-fluid" />
+<img src="%url%assets/trustees/subbareddy.jpg" class=" img-fluid img-max-300" />
 
 <em>Trustee</em>
 
@@ -67,7 +67,7 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 # Thyagu Durai Kannan Rathinadurai
 
-<img src="%url%assets/trustees/thyagu.jpg" class="img-fluid" />
+<img src="%url%assets/trustees/thyagu.jpg" class=" img-fluid img-max-300" />
 
 <em>Trustee</em>
 
@@ -77,7 +77,7 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 # Vinod Kumar G
 
-<img src="%url%assets/trustees/vinodkumar.jpg" class="img-fluid" />
+<img src="%url%assets/trustees/vinodkumar.jpg" class=" img-fluid img-max-300" />
 
 <em>Trustee</em>
 
@@ -88,7 +88,7 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 # Dr. Jayakumar Menon
 
-<img src="%url%assets/trustees/Jayakumar Menon.jpg" class="img-fluid" />
+<img src="%url%assets/trustees/dr-jayakumar-menon.jpg" class=" img-fluid img-max-300" />
 
 <em>Trustee</em>
 
@@ -99,7 +99,7 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 # M.Surendran
 
-<img src="%url%assets/trustees/Surendran.jpg" class="img-fluid" />
+<img src="%url%assets/trustees/Surendran.jpg" class=" img-fluid img-max-300" />
 
 <em>Trustee</em>
 
