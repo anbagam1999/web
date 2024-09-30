@@ -21,7 +21,7 @@ bootstrap([
 	'use-menu-files' => true,
 
 	'siteMenuName' => 'Volunteering',
-	'sections' => ['about-us'],//, 'success-stories', 'galleries', 'shelters'],
+	'sections' => ['about-us', 'gallery'],
 	'no-promotions' => true,
 
 	'theme' => 'cv-nonprofit',
