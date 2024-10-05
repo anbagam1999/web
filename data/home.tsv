@@ -2,8 +2,8 @@
 Help the Homeless			slider		%url%what-we-do/	Know More			infrastructure.jpg
 Donate with Kindness			slider		%url%donate/	Know More			childhood.jpg
 Mission			cards	bi-text-center	%url%what-we-do/	View Our Mission			
-Trustees			cards	bi-umbrella	%url%trustee/	Trustees			
-Unconditional Help	Lorem ipsum dolor sit amet, consectetur adipisicing elit.		help						
-Give Donation.	Lorem ipsum dolor sit amet, consectetur adipisicing elit.		features	%themeUrl%images/icons/donate.svg	%url%donate/	Donate Now			donate.png
-Become a Volunteer.	Lorem ipsum dolor sit amet, consectetur adipisicing elit.		features	%themeUrl%images/icons/volunteer.svg	%url%volunteer/	Join Now			volunteer.png
+Trustees			cards	bi-umbrella	%url%trustees/	Trustees			
+How To Support Us			help						
+Give a Donation.			features	%themeUrl%images/icons/donate.svg	%url%donate/	Donate Now			donate.png
+Become a Volunteer.			features	%themeUrl%images/icons/volunteer.svg	%url%volunteer/	Join Now			volunteer.png
 Our Mission & Goals	We assist the abandoned in living life with dignity through quality health, nutritional care and occupational therapy.		mission_goals						
