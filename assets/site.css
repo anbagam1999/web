@@ -13,3 +13,5 @@
 
 .img-max-300 { display: block; margin: 10px auto 10px auto; max-width: 300px; }
 
+.swiper-button-disabled { display: none; }
+

@@ -1,6 +1,8 @@
 # Anbagam Story
 
-The world is filled with many kind souls but there are very few who are compassionate enough to walk the extra mile. Mr. Mohammed Rafi, the proprietor of a flourishing small business in Parry's (Chennnai), chose to look beyond his busy life and see a need that not many see, to take a challenging path where few have dared to step.He set up a trust called TERDOD ( TRUST ), under the trust homes called "ANBAGAM", were set up initially in THIRUNILAI village Thiruvallur Village, this home for mentally ill men, was the brain child of his ceaseless and colossal efforts. Realizing a need to go beyond material help, such as food or small money, Mr. Rafi established Anbagam to not just rescue mentally ill men wasting on the roads but also to reinstate their broken soul.
+The world is filled with many kind souls but there are very few who are compassionate enough to walk the extra mile. Mr. Mohammed Rafi, the proprietor of a flourishing small business in Parry's (Chennnai), chose to look beyond his busy life and see a need that not many see, to take a challenging path where few have dared to step.
+
+He set up a trust called TERDOD ( TRUST ). Under the trust, homes called "ANBAGAM", were set up - initially in THIRUNILAI Village and Thiruvallur Village. This home for mentally ill men, was the brain child of his ceaseless and colossal efforts. Realizing a need to go beyond material help, such as food or small money, Mr. Rafi established Anbagam to not just rescue mentally ill men wasting on the roads but also to reinstate their broken souls.
 
 </section><section>
 
@@ -12,15 +14,15 @@ The inception of Anbagam was just the initial step in the journey of a thousand 
 
 ### YEAR 2002
 
-In 2002, the Anbagam centre was constructed in Thirunilai  village near Red Hills (Chennai), providing care for the mentally ill destitutes , this became an ideal environment, far away from the hustle of the city and closer to nature's healing touch. 
+In 2002, the Anbagam centre was constructed in Thirunilai Village near Red Hills (Chennai), providing care for the mentally ill destitutes. This became an ideal environment, far away from the hustle of the city and closer to nature's healing touch.
 
 ### YEAR 2013
 
-The Chennai Corporation seeing our work , wanted us to partner and start a home in the Center for Communicable Diseases Tondiarpet ,thus the 2nd branch of our home commenced there , the arrangement continues till date and all the processes and facilities needed are provided to the in mates of our home .
+The Chennai Corporation seeing our work, wanted us to partner and start a home in the Center for Communicable Diseases Tondiarpet. Thus the 2nd branch of our home commenced there. The arrangement continues till date and all the processes and facilities needed are provided to the inmates of our home.
 
 ### YEAR 2015
 
-Considering the increasing numbers of abandoned mentally ill destitutes within the limits of Chennai , the trustees decided to have another branch within the city and accordingly a place in OTTERI CHENNAI was taken on rent , this home provides shelter to abandoned women only .
+Considering the increasing numbers of abandoned mentally ill destitutes within the limits of Chennai, the trustees decided to have another branch within the city and accordingly a place in OTTERI CHENNAI was taken on rent which provides shelter to abandoned women only.
 
 ### Current Status
 
@@ -28,7 +30,7 @@ As of 2024, we have around 400 inmates which include abandoned senior citizens.
 
 A modern kitchen project is under construction in our Thirunilai - Vichur home funded by the AZIM PREMJI FOUNDATION.
 
-Further, another project is underway to construct a home in for 300 inmates in Devandhavakkam, Thiruvallur District, Tamil Nadu.
+Further, another project is underway to construct a home for 300 inmates in Devandhavakkam, Thiruvallur District, Tamil Nadu.
 
 Thus, our efforts to reach and contribute is an ongoing process with the kind support of donors like you.
 
@@ -38,7 +40,7 @@ Thus, our efforts to reach and contribute is an ongoing process with the kind su
 
 </section><section>
 
-# Words from mentally ill destitutes from our Shelter
+# Words from mentally ill destitutes from our shelter
 
 Now he is telling that he is in good health as he was before 1983 and also he is in praising services of our TERDOD and the arrangement made by the trust.
 

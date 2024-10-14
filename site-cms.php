@@ -10,7 +10,7 @@ bootstrap([
 	
 	'support_page_parameters' => true,
 	'page_parameter1_in_title' => true,
-	'version' => [ 'id' => '2', 'date' => '25 Sep 2024', ],
+	'version' => [ 'id' => '3', 'date' => '10 Oct 2024', ],
 
 	'use-parent-slugs' => true,
 	//'home-link-to-section' => true,
@@ -27,6 +27,7 @@ bootstrap([
 	'theme' => 'cv-nonprofit',
 	'theme-color' => '22B9FE',
 	'image-in-logo' => '-rectangle.jpg',
+	'needs-container' => am_var('node') != 'index',
 
 	'start_year' => '1999',
 	'email' => 'contact@anbagam.org',

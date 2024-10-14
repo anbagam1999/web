@@ -28,7 +28,7 @@ The mentally ill destitutes are regularly put through medical check-ups often by
 
 # Newspaper Subscription
 
-Anbagam subscribes to vernacular newspapers and magazines to ensure that those mentally ill destitutes who enjoy a few quiet moments with the written word.
+Anbagam subscribes to vernacular newspapers and magazines to ensure that those mentally ill destitutes enjoy a few quiet moments with the written word.
 
 </section><section>
 
