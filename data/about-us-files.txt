@@ -8,4 +8,3 @@ amenities
 infrastructure
 awards-and-recognition
 appeal
-donate

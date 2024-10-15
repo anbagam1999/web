@@ -6,6 +6,16 @@ Now again we come back to you for inspiration and support. You are requested to 
 
 </section><section>
 
+# Donate Online
+
+%razorpay-links%
+
+----
+
+<img class="img-fluid img-max-300" src="%url%assets/anbagam-razorpay-qrcode.jpg" />
+
+</section><section>
+
 # Bank Details - FOR INDIA (Non-FCRA):
 MO / Cheque / DD to be drawn in the name of TERDOD
 Current Account No. : 008602000008527

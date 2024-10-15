@@ -1,0 +1,16 @@
+#what	amount	link
+by Mobile UPI	[any]	upi://pay?ver=01&mode=19&pa=trustforeducati18.rzp@icici&pn=TrustforEducationandRehabilitationofdisabledorphansanddestitutes&tr=RZPP9JchShLj4WLMtqrv2&cu=INR&am=%amount%&mc=8398&qrMedium=04&tn=PaymenttoTrustforEducationandRehabilitationofdisabledorphansanddestitutes
+by RazorPay Site	[any]	https://pages.razorpay.com/pl_P9K7uibUPVVdvi/view/?amount=%amount%
+----		
+Custom Contribution	0	
+Token Contribution	500	
+Care and Treatment	1000	
+Meals, Medicine Care and Treatment	3500	
+Contribution For Medicines	1500	
+Ritual / Burial	2500	
+One Day Food For 200 Inmates - Vichur Home	11000	
+One Time Food - Vichur Home	6000	
+One Day Food For 100 Inmates - Senior Citizen Home - Vichur	7000	
+One Time Food - Senior Citizen Home - Vichur	3000	
+One Day Food For 40 Inmates - Otteri Home	4000	
+One Time Food - Otteri Home	2000	
