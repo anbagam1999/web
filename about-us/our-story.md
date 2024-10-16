@@ -1,8 +1,8 @@
 # Anbagam Story
 
-The world is filled with many kind souls but only a few are compassionate enough to walk that extra mile. Mr. Mohammed Rafi, the proprietor of a flourishing small business in Parry's (Chennnai), chose to look beyond his own life and family, and see a need in society, and take a challenging path.
+The world is filled with many kind souls but only a few are compassionate enough to walk that extra mile. Mr. Mohammed Rafi, the proprietor of a flourishing small business in Parry's (Chennai), chose to look beyond his own family life, saw a need in society and took a challenging path.
 
-He set up a trust called TERDOD ( TRUST ). Under the trust, homes called "ANBAGAM", were set up - initially in THIRUNILAI Village and Thiruvallur District. This home for mentally ill men, was the brain child of his ceaseless and colossal efforts. Realizing a need to go beyond material help, such as food or small money, Mr. Rafi established Anbagam to not just rescue mentally ill men wasting on the roads but also to reinstate their broken souls.
+He set up a trust called TERDOD ( TRUST ). Under the trust, homes called "ANBAGAM", were set up - initially in THIRUNILAI Village in Thiruvallur District. This home for mentally ill men, was the brain child of his ceaseless and colossal efforts. Realizing a need to go beyond material help, such as food or small money, Mr. Rafi established Anbagam to not just rescue mentally ill men wasting on the roads but also to reinstate their broken souls.
 
 </section><section>
 
