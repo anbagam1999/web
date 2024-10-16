@@ -1,8 +1,8 @@
 # Anbagam Story
 
-The world is filled with many kind souls but there are very few who are compassionate enough to walk the extra mile. Mr. Mohammed Rafi, the proprietor of a flourishing small business in Parry's (Chennnai), chose to look beyond his busy life and see a need that not many see, to take a challenging path where few have dared to step.
+The world is filled with many kind souls but only a few are compassionate enough to walk that extra mile. Mr. Mohammed Rafi, the proprietor of a flourishing small business in Parry's (Chennnai), chose to look beyond his own life and family, and see a need in society, and take a challenging path.
 
-He set up a trust called TERDOD ( TRUST ). Under the trust, homes called "ANBAGAM", were set up - initially in THIRUNILAI Village and Thiruvallur Village. This home for mentally ill men, was the brain child of his ceaseless and colossal efforts. Realizing a need to go beyond material help, such as food or small money, Mr. Rafi established Anbagam to not just rescue mentally ill men wasting on the roads but also to reinstate their broken souls.
+He set up a trust called TERDOD ( TRUST ). Under the trust, homes called "ANBAGAM", were set up - initially in THIRUNILAI Village and Thiruvallur District. This home for mentally ill men, was the brain child of his ceaseless and colossal efforts. Realizing a need to go beyond material help, such as food or small money, Mr. Rafi established Anbagam to not just rescue mentally ill men wasting on the roads but also to reinstate their broken souls.
 
 </section><section>
 
@@ -70,13 +70,12 @@ Mr. Natarajan
 
 ## 1 - Report
 
-If you come across mentally ill person wandering on the roads or Streets
+If you come across mentally ill person wandering on the roads or streets, please call helpline number [14416](tel:14416) or kavalkarangal [9444717100](tel:9444717100).
 
 ## 2 - Rescue
 
-please don't hesitate to call 94440 09988 or 044 - 2901 3306
+Please don't hesitate to call 94440-09988 or 044-2901-3306 for further guidance.
 
 ## 3 - Rehabilitate
 
-Anbagam will rescue and rehabilitate them as per the procedures.
-
+Assist the police to translocate the patient to the nearest approved NGO as per their guidance.

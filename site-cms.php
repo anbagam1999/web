@@ -19,6 +19,7 @@ bootstrap([
 
 	'folder' => '/content/',
 	'use-menu-files' => true,
+	'site-home-in-menu' => true,
 
 	'siteMenuName' => 'Volunteering',
 	'sections' => ['about-us', 'gallery'],

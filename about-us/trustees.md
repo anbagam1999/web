@@ -60,7 +60,7 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 <em>Trustee</em>
 
-<em class="about">Dr. Jayakumar Menon is a PhysiatristO , he   has been a part of the organization since 2017.</em>
+<em class="about">Dr. Jayakumar Menon is a psychiatrist. He has been a part of the organization since 2017.</em>
 
 </section><section>
 
@@ -98,7 +98,7 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 # M.Surendran
 
-<img src="%url%assets/trustees/Surendran.jpg" class=" img-fluid img-max-300" />
+<img src="%url%assets/trustees/surendran.jpg" class=" img-fluid img-max-300" />
 
 <em>Trustee</em>
 
