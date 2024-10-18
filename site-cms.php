@@ -3,7 +3,7 @@ am_var('local', $local = startsWith($_SERVER['HTTP_HOST'], 'localhost'));
 //runCode('network');
 
 bootstrap([
-	'name' => 'Anbagam.org',
+	'name' => 'Anbagam - An Initiative by TERDOD',
 	'byline' => 'Rehabilitating the Mentally Ill',
 	'footer-message' => '<marquee>Service to Humanity, Service to God</marquee><br />Recognised As a CSR Implementation Agency By IICA (Ministry Of Corporate Affairs, Government Of India)',
 	'safeName' => 'anbagam',
@@ -31,7 +31,7 @@ bootstrap([
 	'needs-container' => am_var('node') != 'index',
 
 	'start_year' => '1999',
-	'email' => 'contact@anbagam.org',
+	'email' => 'help@anbagam.org',
 	'phone' => '+91.9444009988',
 	'address' => 'A. Kulandaivel Nachammal Nagar,<br />Thiunillai Village, Post Vichur<br />Chennai 600 103, Tamilnadu',
 	'social' => [
