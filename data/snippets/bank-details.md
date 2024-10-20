@@ -23,7 +23,7 @@
 
 1. Name of the organisation - TRUST FOR EDUCATION AND REHABILITATION OF DISABLED ORPHANS & DESTITUTES
 2. Full Address - THIRUNILAI VILLAGE VICHUR POST,CHENNAI-103
-3. FCRA Number and Validity - 075900916 /31.10. 2021
+3. FCRA Number and Validity - 075900916 valid for 5 years from 1.10.2023.
 
 # Bank Account Details (For International Donors):
 

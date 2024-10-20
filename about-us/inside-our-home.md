@@ -1,6 +1,10 @@
-Anbagam was established by TERDOD, a public Charitable Trust in 1999. Initially, it was operating from the residential premises of the founder in Chennai city.
+Anbagam was established by TERDOD, a public Charitable Trust in 1999. Initially, it was operating from the residential premises of the founder in Chennai city. Later it was shifted to the present premises at Vichur, Tirunilai.
 
-Later it was shifted to the present premises at Vichur, Tirunilai. Currently there are 100 Mentally ill destitutes (June 2014) both men and women.
+Currently (Oct 2024) there are
+
+* Thirunilai Home - 300 inmates.
+* Otteri Home - 40 inmates.
+* CDH Home - 50 inmates.
 
 In 2013, TERDOD and Corporation of Chennai had entered into an agreement to run a rehabilitation centre at the CD Hospital, Tondiarpet. There also, facilities that are available at Anbagam, Vichur are provided. Every morning, doctors from the Corporation hospital visit the centre and provide service to the needy.
 
