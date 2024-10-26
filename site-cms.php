@@ -10,7 +10,7 @@ bootstrap([
 	
 	'support_page_parameters' => true,
 	'page_parameter1_in_title' => true,
-	'version' => [ 'id' => '3', 'date' => '10 Oct 2024', ],
+	'version' => [ 'id' => '1', 'date' => '22 Oct 2024' ],
 
 	'use-parent-slugs' => true,
 	//'home-link-to-section' => true,
@@ -46,7 +46,7 @@ bootstrap([
 		'img' => 'donate.jpg',
 	],
 
-	'url' => $local ? replace_vars('http://localhost%port%/symphony/anbagam/', 'port') : 'https://anbagam.yieldmore.org/',
+	'url' => $local ? replace_vars('http://localhost%port%/symphony/anbagam/', 'port') : 'https://anbagam.org/',
 	'path' => SITEPATH,
 ]);
 ?>

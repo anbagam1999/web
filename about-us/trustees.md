@@ -44,6 +44,14 @@ As Anbagam transformed into a full fledged welfare organization, a board of trus
 
 </section><section>
 
+# Mrs Karthika Devi Sasidharan, Retired College Teacher
+
+<img src="%url%assets/trustees/karthika.jpg" class=" img-fluid img-max-300" />
+
+<em>Trustee</em>
+
+</section><section>
+
 # E A Wilson RETIRED FROM SOUTHERN RAILWAYS
 
 <img src="%url%assets/trustees/wilson.jpg" class=" img-fluid img-max-300" />

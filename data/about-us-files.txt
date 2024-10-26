@@ -3,7 +3,7 @@ our-story
 what-we-do
 inside-our-home
 trustees
-doctors
+our-core-team
 amenities
 infrastructure
 awards-and-recognition
