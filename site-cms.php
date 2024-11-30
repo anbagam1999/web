@@ -5,7 +5,7 @@ am_var('local', $local = startsWith($_SERVER['HTTP_HOST'], 'localhost'));
 bootstrap([
 	'name' => 'Anbagam - An Initiative by TERDOD',
 	'byline' => 'Rehabilitating the Mentally Ill',
-	'footer-message' => '<marquee>Service to Humanity, Service to God</marquee><br />Recognised As a CSR Implementation Agency By IICA (Ministry Of Corporate Affairs, Government Of India)',
+	'footer-message' => '<marquee>Service to Humanity, Service to God</marquee><br />Recognised As a CSR Implementation Agency<br />By IICA (Ministry Of Corporate Affairs, Government Of India)',
 	'safeName' => 'anbagam',
 	
 	'support_page_parameters' => true,
@@ -35,11 +35,13 @@ bootstrap([
 	'phone' => '+91.9444009988',
 	'address' => 'A. Kulandaivel Nachammal Nagar,<br />Thiunillai Village, Post Vichur<br />Chennai 600 103, Tamilnadu',
 	'social' => [
-		[ 'type' => 'facebook', 'link' => 'https://www.facebook.com/pages/Anbagam-Organization/695733940474317', 'name' => 'facebook: Anbagam Page' ],
-		[ 'type' => 'youtube', 'link' => 'https://www.youtube.com/channel/UCra5W808_ZMHoRfH8M753ug', 'name' => 'youtube: Anbagam Channel' ],
+		[ 'type' => 'facebook-sign', 'link' => 'https://www.facebook.com/pages/Anbagam-Organization/695733940474317', 'name' => 'facebook: Anbagam Page' ],
+		[ 'type' => 'linkedin-sign', 'link' => 'https://www.linkedin.com/in/anbagam-rehabilitation-center-terdod-b73392116/', 'name' => 'linkedin: Anbagam Page' ],
+		[ 'type' => 'instagram', 'link' => 'https://www.instagram.com/anbagam._rehabilitation/', 'name' => 'instagram: Anbagam Page' ],
+		//[ 'type' => 'youtube', 'link' => 'https://www.youtube.com/channel/UCra5W808_ZMHoRfH8M753ug', 'name' => 'youtube: Anbagam Channel' ],
 	],
 
-	'footer-help' => [
+	'footer-help__removed' => [
 		'title' => 'Help the Homeless, Mentally Ill and Destitute.',
 		'link' => 'donate/',
 		'linkText' => 'Donate Now',

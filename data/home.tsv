@@ -1,6 +1,8 @@
 #title	content	content2	section	css	link	linkText	link2	link2Text	img
-Help the Homeless			slider		%url%what-we-do/	Know More			infrastructure.jpg
-Donate with Kindness			slider		%url%donate/	Know More			childhood.jpg
+Visit Us			slider		%url%contact/	Know More			home.jpg
+Help the Homeless			slider		%url%what-we-do/	Know More			otteri.jpg
+Donate with Kindness			slider		%url%donate/	Know More			tondiarpet.jpg
+Serve with Us			slider		%url%our-story/	Know More			vichoor.jpg
 Mission			cards	bi-text-center	%url%what-we-do/	View Our Mission			
 Trustees			cards	bi-umbrella	%url%trustees/	Trustees			
 How To Support Us			help						
