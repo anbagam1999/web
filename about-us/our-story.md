@@ -4,7 +4,7 @@ The world is filled with many kind souls but only a few are compassionate enough
 
 He set up a trust called TERDOD ( TRUST ). Under the trust, homes called "ANBAGAM", were set up - initially in THIRUNILAI Village in Thiruvallur District. This home for mentally ill men, was the brain child of his ceaseless and colossal efforts. Realizing a need to go beyond material help, such as food or small money, Mr. Rafi established Anbagam to not just rescue mentally ill men wasting on the roads but also to reinstate their broken souls.
 
-</section><section>
+---
 
 # Anbagam's Growth
 
@@ -34,11 +34,11 @@ Further, another project is underway to construct a home for 300 inmates in Deva
 
 Thus, our efforts to reach and contribute is an ongoing process with the kind support of donors like you.
 
-</section><section>
+---
 
 **Individually, we are one drop. Together, we are an ocean**
 
-</section><section>
+---
 
 # Words from mentally ill destitutes from our shelter
 
@@ -64,7 +64,7 @@ after some times he return to Chennai and wandering in the streets of Chennai by
 
 Mr. Natarajan
 
-</section><section>
+---
 
 # Getting Involved In 3 Steps
 

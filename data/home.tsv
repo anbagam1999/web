@@ -1,11 +1,9 @@
 #title	content	content2	section	css	link	linkText	link2	link2Text	img
-Visit Us			slider		%url%contact/	Know More			home.jpg
-Help the Homeless			slider		%url%what-we-do/	Know More			otteri.jpg
-Donate with Kindness			slider		%url%donate/	Know More			tondiarpet.jpg
-Serve with Us			slider		%url%our-story/	Know More			vichoor.jpg
+---			cards-start						
 Mission			cards	bi-text-center	%url%what-we-do/	View Our Mission			
 Trustees			cards	bi-umbrella	%url%trustees/	Trustees			
-How To Support Us			help						
+---			cards-end						
+How To Support Us			start-help-and-feature						
 Give a Donation.			features	%themeUrl%images/icons/donate.svg	%url%donate/	Donate Now			donate.png
 Become a Volunteer.			features	%themeUrl%images/icons/volunteer.svg	%url%be-a-volunteer/	Join Now			volunteer.png
 Our Mission & Goals	We assist the abandoned in living life with dignity through quality health, nutritional care and occupational therapy.		mission_goals						

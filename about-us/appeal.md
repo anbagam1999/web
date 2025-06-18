@@ -8,7 +8,7 @@ Taking care of so many mentally ill people is a challenge to us. We have success
 
 You are requested to visit Anbagam on any day by giving a call to (+91) 9444009988 and personally witness what we have done with your donations in the past.
 
-</section><section>
+---
  
 # OUR LATEST PROJECT
 
@@ -30,6 +30,6 @@ Awaiting your benevolent action.
 
 %bank-details-snippet%
 
-</section><section>
+---
 
 <a href="%url%donate/"><img class="img-fluid img-max-300" src="%url%assets/anbagam-razorpay-qrcode.jpg" /></a>

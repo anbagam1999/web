@@ -2,7 +2,7 @@
 
 We assist the abandoned in living life with dignity through quality health, nutritional care and occupational therapy.
 
-</section><section>
+---
 
 # Service to Humanity
 
@@ -10,7 +10,7 @@ Anbagam was established by TERDOD, a Public Charitable Trust in 1999. Initially 
 
 During 2013, TERDOD and Corporation of Chennai had entered into an agreement to run a rehabilitation centre at the CD Hospital, Tondiarpet. There also, facilities that are available in Anbagam is provided. 
 
-</section><section>
+---
 
 # For over a decade
 
@@ -22,7 +22,7 @@ Anbagam rescues or takes in mentally ill destitute, helps them regain mental hea
 
 At its centres in OTTERI & CDH TONDIARPET (CHENNAI), THIRUNILAI (THIRUVALLUR DISTRICT), DEVANDAVAKKAM(THIRUVALLUR DISTRICT) TAMILNADU, TERDOD cares for approximately 450 men and women.
 
-</section><section>
+---
 
 # How we help
 
@@ -46,7 +46,7 @@ All mentally ill destitutes are provided with good quality food. There are separ
 
 After proper caring, when mentally ill destitutes are able to provide details of their family, they are sent back to their native place with escorts.
 
-</section><section>
+---
 
 # It is when you give of yourself that you truly give
 

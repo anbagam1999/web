@@ -1,5 +1,5 @@
 
-</section><section>
+---
 
 # Bank Details - FOR INDIA (Non-FCRA):
 
@@ -17,7 +17,7 @@
 > Branch : Edayanchavadi.<br />
 > For net banking : IFSC Code -SBIN0007595
 
-</section><section>
+---
 
 # Bank Details - FOR INTERNATIONAL (FCRA):
 
