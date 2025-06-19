@@ -18,4 +18,6 @@ foreach ($sheet->group as $name => $items) {
 
 	$end = isset($sheet->group[$name . '-end']) ? $sheet->group[$name . '-end'] : false;
 	if ($end) echo replaceItems(getThemeSection($page, $name . '-end'), $end[0], '%'); //is a row needed?
+
+	if ($name == 'cards') _socialItems();
 }

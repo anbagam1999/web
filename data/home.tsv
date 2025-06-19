@@ -1,9 +1,12 @@
 #title	content	content2	section	css	link	linkText	link2	link2Text	img
 ---			cards-start						
-Mission			cards	bi-eye	%url%what-we-do/	View Our Mission			
-Trustees			cards	bi-people	%url%trustees/	Trustees			
+			cards	bi-text-center	%url%what-we-do/	Our Mission			
+			cards	bi-umbrella	%url%trustees/	Trustees			
+			cards	bi-journal	%url%reports/25-years-celebration/	Celebrating 25 Years			
 ---			cards-end						
 How To Support Us			start-help-and-feature						
-Give a Donation.			features	%themeUrl%images/icons/donate.svg	%url%donate/	Donate Now			donate.png
-Become a Volunteer.			features	%themeUrl%images/icons/volunteer.svg	%url%be-a-volunteer/	Join Now			volunteer.png
+Give a Donation.			features		%url%donate/	Donate Now			donate.png
+Become a Volunteer.			features		%url%be-a-volunteer/	Join Now			volunteer.png
+Refer Us			features		#todo	Share Link			refer.png
+Make a Testimonial			features		#todo	Vouch for Us			testimonial.png
 Our Mission & Goals	We assist the abandoned in living life with dignity through quality health, nutritional care and occupational therapy.		mission_goals						

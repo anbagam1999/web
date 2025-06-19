@@ -1,13 +1,10 @@
 :root {
-	--cnvs-themecolor: #22B9FE;
+	--cnvs-themecolor: #99dcfc;
 	--cnvs-body-bg: #99cfe8;
-		--cnvs-footer-bg: #22B9FE;
+		--cnvs-footer-bg: var(--cnvs-body-bg);
+		--cnvs-header-bg: var(--cnvs-body-bg);
 	--amadeus-site-h2-bgd: #99cfe8;
 	--after-content-background: #129edf;
-}
-
-#header-wrap {
-	--cnvs-header-bg: #22B9FE;
 }
 
 .menu-container > .menu-item > .menu-link div::after {

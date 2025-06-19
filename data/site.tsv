@@ -4,8 +4,8 @@ byline	Rehabilitating the Mentally Ill
 safeName	anbagam
 footer-message	<marquee>Service to Humanity, Service to God</marquee><br />Recognised As a CSR Implementation Agency<br />By IICA (Ministry Of Corporate Affairs, Government Of India)
 
-siteMenuName	Volunteering
-sections	about-us
+siteMenuName	Home
+sections	about-us, archives, updates, centres
 sections_no	gallery
 
 theme-color	22B9FE
@@ -14,6 +14,7 @@ image-in-logo	-rectangle.jpg
 year	1999
 email	anbagam.help@gmail.com
 phone	+91.9444009988
+whatsapp	919444009988
 address	A. Kulandaivel Nachammal Nagar,<br />Thiunillai Village, Post Vichur<br />Chennai 600 103, Tamilnadu
 
 local-url	http://localhost/sites/anbagam/
