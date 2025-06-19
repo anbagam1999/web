@@ -10,9 +10,10 @@ variables([
 ]);
 
 function enrichThemeVars($vars, $what) {
-	if ($what == 'header' && variable('sub-theme') == 'nonprofit') {
-		if (variable('node') == 'index')
+	if ($what == 'header') {
+		if (variable('node') == 'index') {
 			$vars['optional-slider'] = getSnippet('nonprofit-hero');
+		}
 	}
 
 	return $vars;

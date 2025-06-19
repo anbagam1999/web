@@ -1,17 +1,19 @@
 :root {
-	--themecolor:  #22B9FE;
-	--ym-site-bgd-color: #22B9FE;
-	--themecolorrgb: 34, 185, 254;
-	--header-height: 70px;
+	--cnvs-themecolor: #22B9FE;
+	--cnvs-body-bg: #99cfe8;
+		--cnvs-footer-bg: #22B9FE;
+	--amadeus-site-h2-bgd: #99cfe8;
+	--after-content-background: #129edf;
 }
 
-#wrapper, #content { background-color: #22B9FE; }
-
-#copyrights {
-    background-color: #bee6f9!important;
+#header-wrap {
+	--cnvs-header-bg: #22B9FE;
 }
 
-.img-max-300 { display: block; margin: 10px auto 10px auto; max-width: 300px; }
-
+.menu-container > .menu-item > .menu-link div::after {
+	background-image: url(themed-border.png);
+}
+/*
 .swiper-button-disabled { display: none; }
-
+*/
+#footer-social i { top: -8px; position: relative; }

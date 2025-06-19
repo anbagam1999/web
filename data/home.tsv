@@ -1,7 +1,7 @@
 #title	content	content2	section	css	link	linkText	link2	link2Text	img
 ---			cards-start						
-Mission			cards	bi-text-center	%url%what-we-do/	View Our Mission			
-Trustees			cards	bi-umbrella	%url%trustees/	Trustees			
+Mission			cards	bi-eye	%url%what-we-do/	View Our Mission			
+Trustees			cards	bi-people	%url%trustees/	Trustees			
 ---			cards-end						
 How To Support Us			start-help-and-feature						
 Give a Donation.			features	%themeUrl%images/icons/donate.svg	%url%donate/	Donate Now			donate.png

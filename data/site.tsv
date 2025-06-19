@@ -5,7 +5,8 @@ safeName	anbagam
 footer-message	<marquee>Service to Humanity, Service to God</marquee><br />Recognised As a CSR Implementation Agency<br />By IICA (Ministry Of Corporate Affairs, Government Of India)
 
 siteMenuName	Volunteering
-sections	about-us, gallery
+sections	about-us
+sections_no	gallery
 
 theme-color	22B9FE
 image-in-logo	-rectangle.jpg

@@ -1,33 +1,35 @@
-<section>
+<section id="donate" class="container mt-4">
 <?php
-$sheet = get_sheet('donate', false);
+echo h2('Donations');
+$sheet = getSheet('donate', false);
 $items = [];
 $broken = false;
 $links = [];
 
 foreach ($sheet->rows as $item) {
-	if (item_r('what', $item, true) == '----') {
+	if ($sheet->getValue($item, 'what', true) == '----') {
 		$broken = true;
 	} else if (!$broken) {
-		$links[] = makeLink(item_r('what', $item, true), item_r('link', $item, true), false);
+		$links[] = makeLink($sheet->getValue($item, 'what', true), $sheet->getValue($item, 'link', true), false);
 	} else {
 		$itemLinks = [];
-		$amount = item_r('amount', $item, true);
+		$amount = $sheet->getValue($item, 'amount', true);
 
 		foreach ($links as $option)
 			$itemLinks[] = str_replace('%amount%', $amount, $option);
 
 		$items[] = 'Rs ' . ($amount == '0' ? '_' : $amount) . ' for <b>'
-			. item_r('what', $item, true) . '</b> &mdash; '
+			. $sheet->getValue($item, 'what', true) . '</b> &mdash; '
 			. implode(' / ', $itemLinks);
 	}
 }
 
 $amounts = '<ol><li>' . implode('</li><li>', $items) . '</li></ol>';
 
-renderMarkdown(__DIR__ . '/_donate.md', ['replaces' => [
+renderAny(__DIR__ . '/_donate.md', ['replaces' => [
 	'razorpay-links' => 'Make a payment with one of these:' . $amounts,
-	]
+	],
+	'use-content-box' => true,
 ]);
 ?>
 </section>
