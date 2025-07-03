@@ -4,6 +4,16 @@ addStyle('site', SITEASSETS);
 variables([
 	'sections-have-files' => true, //TODO: fix this asap!
 	'sub-theme' => 'nonprofit',
+	'footer-variation' => 'single-widget',
+	'siteReplaces'=> [
+		'founder-number' => $ph = '+91-94440-09988',
+		'founder-whatsapp' => _whatsAppME($ph),
+		'rafiya-number' => $ph = '+91-8807865616',
+		'rafiya-whatsapp' => _whatsAppME($ph),
+		'royapettah-landline' => '+91-44-2660-5865',
+		'cdn' => variable('local') ? 'http://localhost/anbagam/cdn/' : '//cdn.anbagam.org/'
+	],
+	'no-page-menu' => true, //TODO: remove for seo review!!
 	'social' => [
 		[ 'type' => 'instagram', 'url' => 'https://www.instagram.com/anbagamrehabilitationcenter/', 'name' => 'Instagram' ],
 		[ 'type' => 'youtube', 'url' => 'https://youtube.com/@AnbagamRehabilitationCenter/', 'name' => 'YouTube' ],
