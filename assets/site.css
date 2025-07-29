@@ -14,3 +14,4 @@
 .swiper-button-disabled { display: none; }
 */
 #footer-social i { top: -8px; position: relative; }
+.message-cell .btn-info { background-color: #99dcfc; font-size: 110%; }

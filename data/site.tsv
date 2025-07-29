@@ -2,10 +2,10 @@
 name	Anbagam - An Initiative by TERDOD
 byline	Rehabilitating the Mentally Ill
 safeName	anbagam
-footer-message	<marquee>Service to Humanity, Service to God</marquee><br />Recognised As a CSR Implementation Agency<br />By IICA (Ministry Of Corporate Affairs, Government Of India)
+footer-message	<marquee>Service to Humanity, Service to God</marquee><br />Recognised As a CSR Implementation Agency By IICA (Ministry Of Corporate Affairs, Government Of India)
 
 siteMenuName	Home
-sections	about-us, archives, updates, centres
+sections	about-us, centers, updates, archives
 sections_no	gallery
 
 theme-color	22B9FE
@@ -17,5 +17,8 @@ phone	+91.9444009988
 whatsapp	919444009988
 address	A. Kulandaivel Nachammal Nagar,<br />Thiunillai Village, Post Vichur<br />Chennai 600 103, Tamilnadu
 
-local-url	http://localhost/sites/anbagam/
-live-url	https://preview.anbagam.org/
+local-preview-url	http://localhost/symphony/anbagam/preview/
+live-preview-url	https://preview.anbagam.org/
+
+local-url	http://localhost/symphony/anbagam/live/
+live-url	https://anbagam.org/

@@ -11,7 +11,7 @@ variables([
 		'rafiya-number' => $ph = '+91-8807865616',
 		'rafiya-whatsapp' => _whatsAppME($ph),
 		'royapettah-landline' => '+91-44-2660-5865',
-		'cdn' => variable('local') ? 'http://localhost/anbagam/cdn/' : '//cdn.anbagam.org/'
+		'cdn' => variable('local') ? 'http://localhost/symphony/anbagam/cdn/' : '//cdn.anbagam.org/'
 	],
 	'no-page-menu' => true, //TODO: remove for seo review!!
 	'social' => [
@@ -24,7 +24,10 @@ variables([
 function enrichThemeVars($vars, $what) {
 	if ($what == 'header') {
 		if (variable('node') == 'index') {
-			$vars['optional-slider'] = getSnippet('25-years-booklet'); //nonprofit-hero');
+			$vars['optional-slider'] = getSnippet('25-years-booklet');
+		}
+		else if (variable('node') == 'reports' && getPageParameterAt(1) == false) {
+			$vars['optional-slider'] = getSnippet('25-years-booklet-link-to');
 		}
 	}
 
@@ -32,7 +35,8 @@ function enrichThemeVars($vars, $what) {
 }
 
 function after_footer_assets() {
-	if (variable('node') != 'index') return;
+	$reportHome = variable('node') == 'reports' && getPageParameterAt(1) == false;
+	if (variable('node') != 'index' && !$reportHome) return;
 	echo '<script>
 	window.addEventListener( \'load\', function() {
 		var swiper = new Swiper(".swiper", {
