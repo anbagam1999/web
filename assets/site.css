@@ -7,6 +7,8 @@
 	--after-content-background: #129edf;
 }
 
+#content { background-color: var(--cnvs-themecolor)!important; }
+
 .menu-container > .menu-item > .menu-link div::after {
 	background-image: url(themed-border.png);
 }
