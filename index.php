@@ -1,6 +1,6 @@
 <?php
 define('SITEPATH', __DIR__);
-include_once '../../../amadeus8/entry.php';
+include_once '../../../dawn/entry.php';
 
 variable('use-preview', true);
 

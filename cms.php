@@ -11,7 +11,7 @@ variables([
 		'rafiya-number' => $ph = '+91-8807865616',
 		'rafiya-whatsapp' => _whatsAppME($ph),
 		'royapettah-landline' => '+91-44-2660-5865',
-		'cdn' => variable('local') ? 'http://localhost/symphony/anbagam/cdn/' : '//cdn.anbagam.org/'
+		'cdn' => variable('local') ? 'http://localhost/symphony/anbagam/live/cdn/' : '//anbagam.org/assets/cdn/'
 	],
 	'no-page-menu' => true, //TODO: remove for seo review!!
 	'social' => [
