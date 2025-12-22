@@ -15,5 +15,11 @@
 /*
 .swiper-button-disabled { display: none; }
 */
-#footer-social i { top: -8px; position: relative; }
 .message-cell .btn-info { background-color: #99dcfc; font-size: 110%; }
+
+/* from business.css */
+.social-icon.si-mini {
+	--cnvs-socialicon-size: 1.75rem;
+	--cnvs-socialicon-fontsize: 0.75rem;
+	margin-bottom: 0;
+}

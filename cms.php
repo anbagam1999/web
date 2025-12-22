@@ -4,14 +4,12 @@ addStyle('site', SITEASSETS);
 variables([
 	'sections-have-files' => true, //TODO: fix this asap!
 	'sub-theme' => 'nonprofit',
-	'footer-variation' => 'single-widget',
 	'siteReplaces'=> [
 		'founder-number' => $ph = '+91-94440-09988',
 		'founder-whatsapp' => _whatsAppME($ph),
 		'rafiya-number' => $ph = '+91-8807865616',
 		'rafiya-whatsapp' => _whatsAppME($ph),
 		'royapettah-landline' => '+91-44-2660-5865',
-		'cdn' => variable('local') ? 'http://localhost/symphony/anbagam/live/cdn/' : '//anbagam.org/assets/cdn/'
 	],
 	'no-page-menu' => true, //TODO: remove for seo review!!
 	'social' => [
@@ -58,5 +56,5 @@ function _socialItems($featured = true) {
 			'use-a-bootstrap-row' => true,
 			'skipItem' => $featured ? function($r) { return $r['Featured'] == ''; } : false,
 		]);
-	section('end');
+	sectionEnd();
 }

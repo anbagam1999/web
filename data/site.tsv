@@ -5,7 +5,9 @@ safeName	anbagam
 footer-message	<marquee>Service to Humanity, Service to God</marquee><br />Recognised As a CSR Implementation Agency By IICA (Ministry Of Corporate Affairs, Government Of India)
 
 siteMenuName	Home
-iconName	Anbagam
+iconName	Anbagam by TERDOD
+network	no
+
 sections	about-us, centers, updates, archives
 sections_todo	gallery
 
@@ -15,8 +17,5 @@ phone	+91.9444009988
 whatsapp	919444009988
 address	A. Kulandaivel Nachammal Nagar,<br />Thiunillai Village, Post Vichur<br />Chennai 600 103, Tamilnadu
 
-local-preview-url	http://localhost/symphony/anbagam/preview/
-live-preview-url	https://preview.anbagam.org/
-
-local-url	http://localhost/symphony/anbagam/live/
+local-url	http://localhost/organizations/anbagam/
 live-url	https://anbagam.org/

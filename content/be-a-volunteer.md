@@ -1,6 +1,8 @@
-# Who can apply the program?
+# Who can apply for the program?
 
-You can spread the cheer by becoming a volunteer at ANBAGAM - TERDOD. Students from Colleges & Universities, Employees from Corporates & Companies, Foreigners for social service. For volunteering please mail to us at <a href="mailto:anbagam.help@gmail.com" target="_blank">anbagam.help@gmail.com</a>
+You can spread the cheer by becoming a volunteer at ANBAGAM - TERDOD. Students from Colleges & Universities, Employees from Corporates & Companies, Foreigners for social service. For volunteering please:
+
+> %contact-coresnippet%
 
 ---
 
