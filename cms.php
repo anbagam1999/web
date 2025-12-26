@@ -1,6 +1,12 @@
 <?php
 addStyle('site', SITEASSETS);
 
+variable('upi', [
+	'site' => ['id' => 'terdod1@sbi', 'name' => 'SBI_Anbagam'],
+	'razorpay' => ['id' => 'mpmohamedrafi617317.rzp@rxairtel', 'name' => 'Razorpay_Anbagam'],
+	'rafiya' => ['id' => 'abdullasknr-3@oksbi', 'name' => 'Rafiya_Anbagam'],
+]);
+
 variables([
 	'sections-have-files' => true, //TODO: fix this asap!
 	'sub-theme' => 'nonprofit',
