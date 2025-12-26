@@ -16,9 +16,9 @@ foreach ($sheet->rows as $item) {
 		$amount = $sheet->getValue($item, 'amount', true);
 
 		foreach ($links as $option)
-			$itemLinks[] = str_replace('%amount%', $amount, $option);
+			$itemLinks[] = str_replace('%amount%', $amount == '_' ? 0 : $amount, $option);
 
-		$items[] = 'Rs ' . ($amount == '0' ? '_' : $amount) . ' for <b>'
+		$items[] = 'Rs ' . $amount . ' for <b>'
 			. $sheet->getValue($item, 'what', true) . '</b> &mdash; '
 			. implode(' / ', $itemLinks);
 	}
