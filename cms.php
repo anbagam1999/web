@@ -12,17 +12,18 @@ variables([
 	'sub-theme' => 'nonprofit',
 	'siteReplaces'=> [
 		'founder-number' => $ph = '+91-94440-09988',
-		'founder-whatsapp' => _whatsAppME($ph),
+		'founder-whatsapp' => whatsapp_me($ph),
 		'rafiya-number' => $ph = '+91-8807865616',
-		'rafiya-whatsapp' => _whatsAppME($ph),
+		'rafiya-whatsapp' => whatsapp_me($ph),
 		'royapettah-landline' => '+91-44-2660-5865',
 	],
 	'no-page-menu' => true, //TODO: remove for seo review!!
-	'social' => [
-		[ 'type' => 'instagram', 'url' => 'https://www.instagram.com/anbagamrehabilitationcenter/', 'name' => 'Instagram' ],
-		[ 'type' => 'youtube', 'url' => 'https://youtube.com/@AnbagamRehabilitationCenter/', 'name' => 'YouTube' ],
-		[ 'type' =>  'linkedin', 'url' => 'https://www.linkedin.com/company/AnbagamRehabilitationCenter/', 'name' => 'LinkedIn' ],
-	],
+
+	socialBuilder::variableName => socialBuilder::create()
+		->addInstagram('anbagamrehabilitationcenter/', ($name = 'Anbagam On ') . 'Instagram')
+		->addYoutube('@AnbagamRehabilitationCenter', $name . 'YouTube')
+		//TODO: HI: ->addLinkedIn('company/AnbagamRehabilitationCenter/', 'LinkedIn')
+		->getItems()
 ]);
 
 function enrichThemeVars($vars, $what) {
