@@ -1,7 +1,7 @@
 #what	amount	link
 |by Our SBI UPI	[any]	upi://pay?cu=INR&am=%amount%&mc=8398&mode=19&pa=terdod1@sbi&tn=AnbagamByTERDOD
-by Razorpay UPI	[any]	upi://pay?cu=INR&am=%amount%&mc=8398&mode=19&pa=mpmohamedrafi617317.rzp@rxairtel&tn=PaymentToMPMohamedRafi&tr=Rw6ItpSoTGseXMqrv2
-by RazorPay Site	[any]	https://pages.razorpay.com/pl_P9K7uibUPVVdvi/view/?amount=%amount%
+|By UPI (on Mobile)	[any]	upi://pay?cu=INR&am=%amount%&mc=8398&mode=19&pa=mpmohamedrafi617317.rzp@rxairtel&tn=PaymentToMPMohamedRafi&tr=Rw6ItpSoTGseXMqrv2
+By Website (of Razorpay)	[any]	https://pages.razorpay.com/pl_P9K7uibUPVVdvi/view/?amount=%amount%
 ----		
 Custom Contribution	_	
 Token Contribution	500	

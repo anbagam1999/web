@@ -8,13 +8,9 @@ Now again we come back to you for inspiration and support. You are requested to 
 
 [spacer]Donate to Anbagam by TERDOD using UPI in India[/spacer]
 
-## To SBI
-> %upi-site-textbox%
-<!-- TODO: [by UPI - To SBI](#upi-site) -->
-
 ## To Razorpay
 > %upi-razorpay-textbox%
-> [by UPI - To Razorpay](#upi-razorpay)
+> [by UPI - via Razorpay](upi://pay?cu=INR&mc=8398&mode=19&pa=mpmohamedrafi617317.rzp@rxairtel&tn=PaymentToMPMohamedRafi&tr=Rw6ItpSoTGseXMqrv2)
 
 ---
 

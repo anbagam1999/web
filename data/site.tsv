@@ -8,7 +8,7 @@ siteMenuName	Home
 iconName	Anbagam by TERDOD
 network	no
 
-sections	about-us, centers, updates, archives
+sections	about-us, centers, archives
 sections_todo	gallery
 
 year	1999
@@ -17,6 +17,6 @@ phone	+91.9444009988
 whatsapp	919444009988
 address	A. Kulandaivel Nachammal Nagar,<br />Thiunillai Village, Post Vichur<br />Chennai 600 103, Tamilnadu
 
-local-url	http://localhost/anbagam/
+local-url	http://localhost/sites/anbagam/
 live-url	https://anbagam.org/
 showIn	organizations

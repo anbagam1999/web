@@ -18,6 +18,7 @@ variables([
 		'royapettah-landline' => '+91-44-2660-5865',
 	],
 	'no-page-menu' => true, //TODO: remove for seo review!!
+	'ChatraID' => false,
 
 	socialBuilder::variableName => socialBuilder::create()
 		->addInstagram('anbagamrehabilitationcenter/', ($name = 'Anbagam On ') . 'Instagram')
@@ -59,7 +60,7 @@ function _socialItems($featured = true) {
 	add_table('pulse',
 		SITEPATH .'/data/social.tsv',
 		'Title, Instagram',
-		'<div class="col-lg-4 col-md-6 col-sm-12 text-center p-3"><div class="content-box"><h3>%Title%</h3>%Text%<hr/>%Social_Embed%</div></div>', [
+		'<div class="col-lg-4 col-md-6 col-sm-12 text-center p-3"><div class="content-box"><h3>%Title%</h3>%Social_Embed%</div></div>', [
 			'use-a-bootstrap-row' => true,
 			'skipItem' => $featured ? function($r) { return $r['Featured'] == ''; } : false,
 		]);
