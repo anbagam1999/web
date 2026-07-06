@@ -17,6 +17,7 @@ variables([
 		'rafiya-whatsapp' => whatsapp_me($ph),
 		'royapettah-landline' => '+91-44-2660-5865',
 	],
+	'no-network-in-footer' => true,
 	'no-page-menu' => true, //TODO: remove for seo review!!
 	'ChatraID' => false,
 
